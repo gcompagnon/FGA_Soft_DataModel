@@ -1,0 +1,1 @@
+C:\DATA\GIT\FGA_Soft_DataModel\FGA_BusinessComponent.Tests\obj\Release\FGA_BusinessComponent.Tests.csprojResolveAssemblyReference.cache
